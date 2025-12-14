@@ -50,7 +50,7 @@ export default function CampusCartLanding() {
             <Card className="rounded-2xl shadow-xl">
               <CardContent className="p-6">
                 <img
-                  src="https://dummyimage.com/600x400/000/fff&text=CampusCart+App"
+                  src="src/assets/bg.png"
                   alt="CampusCart App Preview"
                   className="rounded-xl"
                 />
